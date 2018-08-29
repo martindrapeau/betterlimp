@@ -1,7 +1,7 @@
 {
-  "name": "betterslack",
+  "name": "betterlimp",
   "version": "1.2.1",
-  "description": "Chrome extension to tweak Slack",
+  "description": "Chrome extension to tweak a very limp chat application",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/g3rv4/BetterSlack.git"
+    "url": "https://github.com/betterlimp/betterlimp.git"
   },
   "author": "Gervasio Marchand",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/g3rv4/BetterSlack/issues"
+    "url": "https://github.com/betterlimp/betterlimp/issues"
   },
-  "homepage": "https://github.com/g3rv4/BetterSlack#readme",
+  "homepage": "https://github.com/betterlimp/betterlimp#readme",
   "devDependencies": {
     "@types/chrome": "0.0.72",
     "copy-webpack-plugin": "^4.5.2",

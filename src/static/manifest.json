@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "BetterSlack - Slack can be better",
-    "description": "Chrome extension to tweak Slack",
+    "name": "betterlimp - making your limp chat a little better",
+    "description": "Chrome extension to tweak a limp chat service",
     "version": "1.2.1",
     "options_ui": {
         "page": "options.html",
