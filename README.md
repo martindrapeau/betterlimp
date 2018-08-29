@@ -1,6 +1,8 @@
-# BetterSlack :unicorn:
+# betterlimp :unicorn:
 
-A chrome extension to improve my Slack experience. You can [read more here](https://g3rv4.com/2018/08/betterslack). Unfortunately, **this project will die soon because injecting javascript into Slack breaks their terms**. Read [my post here](https://g3rv4.com/2018/08/bye-bye-betterslack)
+A chrome extension to improve a limp chat experience.
+
+Forked from an extension bullied out of existence by a limp company.
 
 ## Changelog
 
